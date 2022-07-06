@@ -1,0 +1,14 @@
+
+CustomerId : 234
+Name : lyka
+Age : 25
+Address : russia
+MobileNo : 345612892
+CustomerId : 234
+
+CustomerId : 1
+Name : liso
+Age : 32
+Address : ukraine
+MobileNo : 223457
+CustomerId : 1
